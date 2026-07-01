@@ -10,6 +10,7 @@
 | [0169-majority-element](https://github.com/Hiyaa1501/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Hiyaa1501/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Hiyaa1501/leetcode/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/Hiyaa1501/leetcode/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
