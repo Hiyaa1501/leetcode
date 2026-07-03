@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hiyaa1501/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Hiyaa1501/leetcode/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/Hiyaa1501/leetcode/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hiyaa1501/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Hiyaa1501/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Hiyaa1501/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Hiyaa1501/leetcode/tree/master/0268-missing-number) |
@@ -25,6 +26,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hiyaa1501/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Hiyaa1501/leetcode/tree/master/0027-remove-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hiyaa1501/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Hiyaa1501/leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Hiyaa1501/leetcode/tree/master/0344-reverse-string) |
 ## Divide and Conquer
@@ -48,6 +50,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hiyaa1501/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Hiyaa1501/leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
