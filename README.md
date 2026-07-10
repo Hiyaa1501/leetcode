@@ -20,6 +20,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hiyaa1501/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Hiyaa1501/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Hiyaa1501/leetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Hiyaa1501/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Hiyaa1501/leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Hiyaa1501/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Hiyaa1501/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -31,6 +32,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Hiyaa1501/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Hiyaa1501/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Hiyaa1501/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Hiyaa1501/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Hiyaa1501/leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Hiyaa1501/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
@@ -54,6 +56,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Hiyaa1501/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Hiyaa1501/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Hiyaa1501/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Hiyaa1501/leetcode/tree/master/0268-missing-number) |
 ## Counting
 |  |
