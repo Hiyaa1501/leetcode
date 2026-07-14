@@ -9,8 +9,8 @@ class Solution {
                     row.add(1);
                 }
                 else {
-                    int value = triangle.get(i-1).get(j-1) + triangle.get(i-1).get(j);
-                    row.add(value);
+                    int result = triangle.get(i-1).get(j-1) + triangle.get(i-1).get(j);
+                    row.add(result);
                 }
             }
             triangle.add(row);
