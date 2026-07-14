@@ -30,6 +30,7 @@
 | [0485-max-consecutive-ones](https://github.com/Hiyaa1501/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Hiyaa1501/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Hiyaa1501/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Hiyaa1501/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 | [0066-plus-one](https://github.com/Hiyaa1501/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Hiyaa1501/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Hiyaa1501/leetcode/tree/master/0268-missing-number) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Hiyaa1501/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -106,6 +108,7 @@
 | [0054-spiral-matrix](https://github.com/Hiyaa1501/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Hiyaa1501/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Hiyaa1501/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Hiyaa1501/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Union-Find
 |  |
 | ------- |
@@ -117,4 +120,12 @@
 | [0054-spiral-matrix](https://github.com/Hiyaa1501/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Hiyaa1501/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Hiyaa1501/leetcode/tree/master/0073-set-matrix-zeroes) |
+## Combinatorics
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Hiyaa1501/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Hiyaa1501/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
