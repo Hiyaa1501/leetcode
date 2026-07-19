@@ -1,29 +1,29 @@
 class Solution {
     public int[] findMissingAndRepeatedValues(int[][] grid) {
         int n = grid.length;
+        long N = (long) n * n;
 
-        int missing = -1;
-        int repeated = -1;
+        long expectedSum = (long) N*(N+1)/2;
+        long expectSumSquare = (long) N*(N+1)*(2*N+1)/6;
 
-        for(int i = 1; i <= n*n; i++) {
-            int count = 0;
-            for(int row = 0; row < n; row++) {
-                for(int col = 0; col < n; col++) {
-                    if(grid[row][col] == i) {
-                        count++;
-                    }
-                }
-            }
-            if(count == 2) {
-                repeated = i;
-            }
-            else if(count == 0) {
-                missing = i;
-            }
-            if(missing != -1 && repeated != -1) {
-                break;
+        long actualSum = 0;
+        long actualSumSquare = 0;
+
+        for(int i = 0; i < n; i++) {
+            for(int j = 0; j < n; j++) {
+                actualSum += grid[i][j];
+                actualSumSquare += (long) grid[i][j] * grid[i][j];
             }
         }
-        return new int[]{repeated, missing};
+
+        long diff = actualSum - expectedSum;
+        long sqDiff = actualSumSquare - expectSumSquare;
+
+        long sum = (long) sqDiff/diff; //x+y
+
+        int repeating = (int) ((sum + diff)/2);  //(x-y)(x+y)/2
+        int missing = (int) (sum - repeating);  //y = sum - x
+
+        return new int[]{repeating, missing};
     }
 }
