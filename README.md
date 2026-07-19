@@ -37,6 +37,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Hiyaa1501/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Hiyaa1501/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Hiyaa1501/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/Hiyaa1501/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Hiyaa1501/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Hiyaa1501/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Hiyaa1501/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/Hiyaa1501/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -93,6 +95,7 @@
 | [0189-rotate-array](https://github.com/Hiyaa1501/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Hiyaa1501/leetcode/tree/master/0268-missing-number) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Hiyaa1501/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/Hiyaa1501/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -136,6 +139,7 @@
 | [0054-spiral-matrix](https://github.com/Hiyaa1501/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Hiyaa1501/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Hiyaa1501/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [2965-find-missing-and-repeated-values](https://github.com/Hiyaa1501/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Combinatorics
 |  |
 | ------- |
