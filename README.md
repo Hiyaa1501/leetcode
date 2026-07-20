@@ -38,6 +38,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Hiyaa1501/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Hiyaa1501/leetcode/tree/master/0704-binary-search) |
 | [1331-rank-transform-of-an-array](https://github.com/Hiyaa1501/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Hiyaa1501/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Hiyaa1501/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Hiyaa1501/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Hiyaa1501/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -174,4 +175,5 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Hiyaa1501/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Hiyaa1501/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
