@@ -32,6 +32,7 @@
 | [0414-third-maximum-number](https://github.com/Hiyaa1501/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Hiyaa1501/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Hiyaa1501/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/Hiyaa1501/leetcode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Hiyaa1501/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Hiyaa1501/leetcode/tree/master/0704-binary-search) |
 | [1331-rank-transform-of-an-array](https://github.com/Hiyaa1501/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -70,6 +71,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Hiyaa1501/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Hiyaa1501/leetcode/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/Hiyaa1501/leetcode/tree/master/0493-reverse-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -101,6 +103,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hiyaa1501/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Hiyaa1501/leetcode/tree/master/0268-missing-number) |
+| [0493-reverse-pairs](https://github.com/Hiyaa1501/leetcode/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Hiyaa1501/leetcode/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
@@ -148,4 +151,20 @@
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Hiyaa1501/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Hiyaa1501/leetcode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Hiyaa1501/leetcode/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Hiyaa1501/leetcode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Hiyaa1501/leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
