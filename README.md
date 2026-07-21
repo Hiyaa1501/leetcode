@@ -38,6 +38,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Hiyaa1501/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Hiyaa1501/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Hiyaa1501/leetcode/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/Hiyaa1501/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/Hiyaa1501/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Hiyaa1501/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Hiyaa1501/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -111,6 +112,7 @@
 | [0268-missing-number](https://github.com/Hiyaa1501/leetcode/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/Hiyaa1501/leetcode/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Hiyaa1501/leetcode/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/Hiyaa1501/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -125,6 +127,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Hiyaa1501/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Hiyaa1501/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Hiyaa1501/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -179,5 +182,6 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Hiyaa1501/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Hiyaa1501/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/Hiyaa1501/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Hiyaa1501/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
