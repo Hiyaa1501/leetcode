@@ -55,6 +55,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Hiyaa1501/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Hiyaa1501/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Hiyaa1501/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Hiyaa1501/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Hiyaa1501/leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Hiyaa1501/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Hiyaa1501/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -92,6 +93,7 @@
 | [0088-merge-sorted-array](https://github.com/Hiyaa1501/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Hiyaa1501/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Hiyaa1501/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Hiyaa1501/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Hiyaa1501/leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Hiyaa1501/leetcode/tree/master/0414-third-maximum-number) |
 | [1331-rank-transform-of-an-array](https://github.com/Hiyaa1501/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -126,6 +128,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Hiyaa1501/leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Hiyaa1501/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Hiyaa1501/leetcode/tree/master/0344-reverse-string) |
 ## Prefix Sum
 |  |
