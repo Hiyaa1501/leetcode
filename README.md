@@ -57,6 +57,7 @@
 | [0217-contains-duplicate](https://github.com/Hiyaa1501/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Hiyaa1501/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Hiyaa1501/leetcode/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Hiyaa1501/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Hiyaa1501/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Hiyaa1501/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Hiyaa1501/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Hiyaa1501/leetcode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Hiyaa1501/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -130,6 +132,7 @@
 | [0125-valid-palindrome](https://github.com/Hiyaa1501/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Hiyaa1501/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Hiyaa1501/leetcode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Hiyaa1501/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -194,4 +197,8 @@
 | [0904-fruit-into-baskets](https://github.com/Hiyaa1501/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Hiyaa1501/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Hiyaa1501/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Hiyaa1501/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
