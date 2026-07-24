@@ -24,6 +24,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Hiyaa1501/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Hiyaa1501/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Hiyaa1501/leetcode/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/Hiyaa1501/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hiyaa1501/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Hiyaa1501/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Hiyaa1501/leetcode/tree/master/0189-rotate-array) |
@@ -146,6 +147,7 @@
 | [0053-maximum-subarray](https://github.com/Hiyaa1501/leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Hiyaa1501/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Hiyaa1501/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0152-maximum-product-subarray](https://github.com/Hiyaa1501/leetcode/tree/master/0152-maximum-product-subarray) |
 ## Simulation
 |  |
 | ------- |
