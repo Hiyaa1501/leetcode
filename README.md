@@ -36,6 +36,7 @@
 | [0198-house-robber](https://github.com/Hiyaa1501/leetcode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Hiyaa1501/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Hiyaa1501/leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Hiyaa1501/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Hiyaa1501/leetcode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/Hiyaa1501/leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Hiyaa1501/leetcode/tree/master/0414-third-maximum-number) |
@@ -62,6 +63,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Hiyaa1501/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Hiyaa1501/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Hiyaa1501/leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Hiyaa1501/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Hiyaa1501/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Hiyaa1501/leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Hiyaa1501/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -207,6 +209,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Hiyaa1501/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Hiyaa1501/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Hiyaa1501/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Hiyaa1501/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Hiyaa1501/leetcode/tree/master/1004-max-consecutive-ones-iii) |
