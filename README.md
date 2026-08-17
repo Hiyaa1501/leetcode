@@ -118,6 +118,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Hiyaa1501/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Hiyaa1501/leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Hiyaa1501/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Hiyaa1501/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Hiyaa1501/leetcode/tree/master/0268-missing-number) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Hiyaa1501/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -127,6 +128,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Hiyaa1501/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Hiyaa1501/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/Hiyaa1501/leetcode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Hiyaa1501/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hiyaa1501/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Hiyaa1501/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -220,4 +222,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Hiyaa1501/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Hiyaa1501/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
