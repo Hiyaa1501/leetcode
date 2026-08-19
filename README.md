@@ -48,6 +48,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Hiyaa1501/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Hiyaa1501/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Hiyaa1501/leetcode/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/Hiyaa1501/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Hiyaa1501/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Hiyaa1501/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/Hiyaa1501/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -138,6 +139,7 @@
 | [0493-reverse-pairs](https://github.com/Hiyaa1501/leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Hiyaa1501/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Hiyaa1501/leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Hiyaa1501/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Hiyaa1501/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
