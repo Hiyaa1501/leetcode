@@ -3,21 +3,22 @@ class Solution {
         int low = 1;
         int high = 0;
 
-        for (int pile : piles) {
+        //count high
+        for(int pile : piles) {
             high = Math.max(high, pile);
         }
 
-        while (low < high) {
+        while(low <= high) {
             int mid = low + (high - low) / 2;
 
             long hours = 0;
-
-            for (int pile : piles) {
+            //calculate hours
+            for(int pile : piles) {
                 hours += (pile + mid - 1) / mid;
             }
 
-            if (hours <= h) {
-                high = mid;
+            if(hours <= h) {    //if finished earlier try smaller speed
+                high = mid - 1;
             } else {
                 low = mid + 1;
             }
