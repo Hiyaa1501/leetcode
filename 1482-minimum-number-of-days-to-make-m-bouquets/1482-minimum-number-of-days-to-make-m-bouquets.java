@@ -4,40 +4,39 @@ class Solution {
             return -1;
         }
 
-        int left = 1;
-        int right = 0;
+        int low = 1;
+        int high = 0;
 
-        //max blooming day
+        //find high
         for(int day : bloomDay) {
-            right = Math.max(right , day);
+            high = Math.max(high, day);
         }
 
-        while(left <= right) {
-            //no of days we are testing
-            int mid = left + (right - left) / 2;
+        while(low <= high) {
+            int mid = low + (high - low) / 2;
 
-            int bouquets = 0;
+            int bouquet = 0;
             int count = 0;
 
             for(int day : bloomDay) {
-                //flower has bloomed
-                if(day <= mid) {
+                if(day <= mid) {   //flower has bloomed
                     count++;
-                } else {
+                } else {        //not bloomed
                     count = 0;
                 }
-                if(count == k) {  //one bouquet
-                    bouquets++;
+
+                if(count == k) { //check wether collected k flowers
+                    bouquet++;
                     count = 0;
                 }
             }
 
-            if(bouquets >= m) {
-                right = mid - 1;
+            if(bouquet >= m) {       //more bouquet then search left
+                high = mid - 1;
             } else {
-                left = mid + 1;
+                low = mid + 1;
             }
         }
-        return left;
+        return low;
     }
 }
