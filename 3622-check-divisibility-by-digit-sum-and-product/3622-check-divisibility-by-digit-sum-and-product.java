@@ -10,7 +10,7 @@ class Solution {
             sum += digit;
             product *= digit;
 
-            n = n / 10;
+            n = n / 10;   //99 -> gets 9
         }
         return num % (sum + product) == 0;   //checks if completely divisible
     }
