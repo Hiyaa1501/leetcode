@@ -125,6 +125,7 @@
 | [0268-missing-number](https://github.com/Hiyaa1501/leetcode/tree/master/0268-missing-number) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Hiyaa1501/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Hiyaa1501/leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Hiyaa1501/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Binary Search
 |  |
 | ------- |
