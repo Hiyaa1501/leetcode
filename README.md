@@ -60,6 +60,7 @@
 | [1539-kth-missing-positive-number](https://github.com/Hiyaa1501/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Hiyaa1501/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Hiyaa1501/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2643-row-with-maximum-ones](https://github.com/Hiyaa1501/leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/Hiyaa1501/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -199,6 +200,7 @@
 | [0054-spiral-matrix](https://github.com/Hiyaa1501/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Hiyaa1501/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Hiyaa1501/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [2643-row-with-maximum-ones](https://github.com/Hiyaa1501/leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/Hiyaa1501/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Combinatorics
 |  |
