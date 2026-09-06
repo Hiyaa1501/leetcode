@@ -63,6 +63,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/Hiyaa1501/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Hiyaa1501/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2643-row-with-maximum-ones](https://github.com/Hiyaa1501/leetcode/tree/master/2643-row-with-maximum-ones) |
+| [2951-find-the-peaks](https://github.com/Hiyaa1501/leetcode/tree/master/2951-find-the-peaks) |
 | [2965-find-missing-and-repeated-values](https://github.com/Hiyaa1501/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Hiyaa1501/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -256,4 +257,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Hiyaa1501/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Enumeration
+|  |
+| ------- |
+| [2951-find-the-peaks](https://github.com/Hiyaa1501/leetcode/tree/master/2951-find-the-peaks) |
 <!---LeetCode Topics End-->
