@@ -174,6 +174,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/Hiyaa1501/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Hiyaa1501/leetcode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Hiyaa1501/leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Hiyaa1501/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Hiyaa1501/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Prefix Sum
@@ -280,6 +281,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Hiyaa1501/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Hiyaa1501/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Hiyaa1501/leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Hiyaa1501/leetcode/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -290,6 +292,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Hiyaa1501/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Hiyaa1501/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Hiyaa1501/leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Hiyaa1501/leetcode/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -302,6 +305,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Hiyaa1501/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Hiyaa1501/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Hiyaa1501/leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Hiyaa1501/leetcode/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -310,4 +314,8 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Hiyaa1501/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Hiyaa1501/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Hiyaa1501/leetcode/tree/master/0226-invert-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Hiyaa1501/leetcode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
